@@ -83,11 +83,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-<<<<<<< HEAD
-   "version": "3.6.6"
-=======
    "version": "3.7.3"
->>>>>>> 621e22db200163ed0e82e9149d3ffb654f785f9d
   }
  },
  "nbformat": 4,
