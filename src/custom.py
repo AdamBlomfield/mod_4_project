@@ -8,7 +8,10 @@ def test_custom():
     print('In custom module')
     return None
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 5a372b26f6d9b10890d4f85f29d78ce1fa08d605
 def detrend(TS, column):
         p_values = []
         

@@ -1,10 +1,18 @@
 # mod_4_project
 ==============================
+## Project Description
+------------
+The project seeks to discover the 5 best zipcodes to invest in, in the Chicago area. 5 potential definitions were used for "best" to cater for different styles of investors. Historic Chicago house price data was used to build a time series model and predict where house prices would be at a future date.
 
-mod_4_final_project
-==============================
+Prediction intervals were made for 6 months and 12 months into the future.
+House prices for each zipcode in Chicago were taken from Zillow's database and were calculated as the median price of two-bedroom homes for each month from April 1996 to April 2008.  
+ARIMA model used to predict future house prices
 
-Project Organization
+Model's Prediction of House Price:
+
+![alt text](https://github.com/AdamBlomfield/mod_4_project/tree/master/reports/figures/prediction_chart.png "Chart to show our prediction of house price")
+
+## Project Organization
 ------------
 The directory structure for this projects is below. Brief descriptions follow the diagram.
 
@@ -95,3 +103,24 @@ If your current environment does not meet requirements for using this template e
 ```
   pip install -r requirements.txt
 ```
+
+
+## Explanation of the Tests
+-------------
+ARIMA (Auto Regressive Integrated Moving Average):
+simple stochastic time series model that is trained on data (by regressing a variable based on historic values of that variable) and then will forecast data for future time points. Complex relationships between different time points can be captured by ARIMA as it factors in values of lagged terms as well as error terms.
+
+## Built with
+-------------
+[Zillow Housing Data](https://www.zillow.com/research/data/)
+
+## Team
+-------------
+Filis Coba
+![alt text](https://github.com/AdamBlomfield/mod_4_project/tree/master/reports/images/filis.png "Filis Coba")
+
+Dr. Ryan Miller
+![alt text](https://github.com/AdamBlomfield/mod_4_project/tree/master/reports/images/ryan.png "Dr. Ryan Miller")
+
+Adam Blomfield
+![alt text](https://github.com/AdamBlomfield/mod_4_project/tree/master/reports/images/adam.png "Adam Blomfield")
