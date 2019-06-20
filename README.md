@@ -126,7 +126,7 @@ Filis Coba
 ![Image of Filis](/reports/images/filis.png)
 
 Dr. Ryan Miller
-![Image of Ryan](https://github.com/AdamBlomfield/mod_4_project/tree/master/reports/images/ryan.png "Dr. Ryan Miller")
+![Image of Ryan](/reports/images/ryan.png "Dr. Ryan Miller")
 
 Adam Blomfield
-![Image of Adam](https://github.com/AdamBlomfield/mod_4_project/tree/master/reports/images/adam.png "Adam Blomfield")
+![Image of Adam](/reports/images/adam.png "Adam Blomfield")
