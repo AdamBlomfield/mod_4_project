@@ -123,10 +123,5 @@ Our model did not include Zipcodes of 60619 and 60649 as we were unable to rende
 ## Team
 -------------
 Filis Coba
-![Image of Filis](/reports/images/filis.png)
-
 Dr. Ryan Miller
-![Image of Ryan](/reports/images/ryan.png "Dr. Ryan Miller")
-
 Adam Blomfield
-![Image of Adam](/reports/images/adam.png "Adam Blomfield")
